@@ -1,0 +1,25 @@
+
+h1{
+    color: #BF2EC7
+}
+p{
+    display: inline-block;
+    width: 500px;
+   color: #C2001C;
+    
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+#ts{
+    margin: 40;
+}
+nav{
+    display: inline-block;
+}
+ul{
+    margin-bottom: 40px;
+    margin-right: 1700px;
+}
