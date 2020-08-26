@@ -1,6 +1,7 @@
 
 h1{
-    color: #BF2EC7
+    color: #BF2EC7;
+    text-align: center;
 }
 p{
     display: inline-block;
@@ -22,4 +23,11 @@ nav{
 ul{
     margin-bottom: 40px;
     margin-right: 1700px;
+}
+
+li{
+
+    display: inline;
+    margin: 10px;
+
 }
